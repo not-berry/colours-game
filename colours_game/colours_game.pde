@@ -5,6 +5,8 @@ String mode = "game";
 
 void setup() {
   size(800,800);
+  textAlign(CENTER,CENTER);
+  frameRate(60);
 }
 
 void draw() {
